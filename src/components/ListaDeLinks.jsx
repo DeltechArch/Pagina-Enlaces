@@ -8,13 +8,13 @@ export const ListaDeLinks = () => {
     
       <InfoLink
         texto='Git-Hub'
-        imagenSrc='src/assets/github.svg'
+        imagenSrc='./assets/github.svg'
         enlace='https://github.com/DeltechArch'
       />
 
       <InfoLink
         texto='tik-tok'
-        imagenSrc='/src/assets/tiktok.svg'
+        imagenSrc='./assets/tiktok.svg'
         enlace='https://www.tiktok.com/@deltecharch'
       />
 
