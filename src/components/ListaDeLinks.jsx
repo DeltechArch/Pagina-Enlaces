@@ -17,6 +17,11 @@ export const ListaDeLinks = () => {
         imagenSrc='./assets/tiktok.svg'
         enlace='https://www.tiktok.com/@deltecharch'
       />
+       <InfoLink
+        texto='tik-tok'
+        imagenSrc='./assets/tiktok.svg'
+        enlace='https://www.tiktok.com/@deltecharch'
+      />
 
 
     </ul>
