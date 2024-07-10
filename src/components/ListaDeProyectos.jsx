@@ -6,7 +6,7 @@ export const ListaDeProyectos = () => {
     <>
       <section className=' grid grid-cols-1 justify-items-center space-y-3 mt-4 justify-center'>
 
-        <h2 className=' text-2xl font-bold bg-black mb-4 p-4 shadow-lg shadow-cyan-300'>Proyectos Personales</h2>
+        <h2 className=' text-2xl font-bold bg-black mb-4 p-4 shadow-lg shadow-cyan-300 rounded-lg '>Proyectos Personales</h2>
 
         <Proyecto
           titulo='MyLista'

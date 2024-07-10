@@ -4,15 +4,18 @@ import { ListaDeLinks } from "./components/ListaDeLinks"
 import { ListaDeProyectos } from "./components/ListaDeProyectos"
 
 function App() {
-  
+
 
   return (
     <>
-      <Headear/>
-      <ListaDeLinks/>
-      <ListaDeProyectos/>
-
     
+        <Headear />
+        <ListaDeLinks />
+        <ListaDeProyectos />
+      
+
+
+
     </>
   )
 }
