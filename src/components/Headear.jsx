@@ -3,7 +3,7 @@ import React from 'react'
 
 export const Headear = () => {
   return (
-    <header className=' flex  justify-center bg-black shadow-lg shadow-cyan-300 h-20 '>
+    <header className=' flex  justify-center items-center  bg-black shadow-lg shadow-cyan-300 h-20 '>
       <span><img className='h-20 w-full p-2'  src="./logotipo.png" alt="Logotipo" />
       </span>
 
