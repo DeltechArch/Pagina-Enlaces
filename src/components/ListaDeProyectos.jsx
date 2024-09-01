@@ -10,6 +10,14 @@ export const ListaDeProyectos = () => {
         </h2>
 
         <Proyecto
+          titulo='Habit Tracking'
+          image='./habit-tracking.svg' 
+          descripcion='Una aplicación para gestionar y seguir tus hábitos, permitiéndote crear, seguir y eliminar hábitos a lo largo del tiempo.'
+          enlace='https://deltecharch.github.io/Habit-Tracking/'
+        />
+
+
+        <Proyecto
           titulo='MyLista'
           image='./milista.svg'
           descripcion='Una lista de mercado fundamental para tu próxima visita al supermercado.'

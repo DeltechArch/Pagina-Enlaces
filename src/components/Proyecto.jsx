@@ -7,7 +7,7 @@ export const Proyecto = (props) => {
       <img 
         src={props.image} 
         alt="imagen de app" 
-        className='w-72 h-72 object-cover rounded-md shadow-lg transition-transform transform hover:scale-105' 
+        className='w-72 h-72 object-cover rounded-md shadow-lg transition-transform transform hover:scale-105 border border-white' 
       />
       <p className='p-4 text-white font-semibold text-lg text-center'>{props.descripcion}</p>
       <a 
