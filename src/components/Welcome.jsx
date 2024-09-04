@@ -16,7 +16,7 @@ export const Welcome = () => {
         </div>
         <div className='flex flex-col justify-center'>
           <h1 className='text-3xl md:text-5xl font-bold text-white mb-2'>Juan Delgadillo</h1>
-          <p className='text-xl md:text-2xl text-white mb-4'>Web Developer Frontend</p>
+        
           <p className='text-lg text-white'>
             Sigueme en mis redes Sociales. <br />
             Visita mis proyectos.
