@@ -23,24 +23,6 @@ export const ListaDeProyectos = () => {
           enlace='https://deltecharch.github.io/MyList/'
         />
 
-<Proyecto
-          titulo='MyLista'
-          image='./milista.svg'
-          descripcion='Una lista de mercado fundamental para tu próxima visita al supermercado.'
-          enlace='https://deltecharch.github.io/MyList/'
-        />
-         <Proyecto
-          titulo='MyLista'
-          image='./milista.svg'
-          descripcion='Una lista de mercado fundamental para tu próxima visita al supermercado.'
-          enlace='https://deltecharch.github.io/MyList/'
-        />
-         <Proyecto
-          titulo='MyLista'
-          image='./milista.svg'
-          descripcion='Una lista de mercado fundamental para tu próxima visita al supermercado.'
-          enlace='https://deltecharch.github.io/MyList/'
-        />
       
       </div>
     </section>
