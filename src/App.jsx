@@ -12,8 +12,9 @@ function App() {
 
       <Headear />
       <Welcome/>
-      <ListaDeProyectos />
       <ListaDeLinks/>
+      <ListaDeProyectos />
+      
     
     
 
